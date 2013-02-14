@@ -1,0 +1,86 @@
+[
+  {"name":"PROGRAMA", "colour": "#0F2356", "porcentaje": 27.5, "value":66, "title":"Programa"},
+  {
+    "name":"AGENDA - ALTERNATIVA", "colour": "#29B79C",
+    "value": 174,
+    "porcentaje": 72.5,
+    "title": "Agenda Alternativa<br />72,5%",
+    "link": "http://maps.google.es/",
+    "children" : [
+      {
+        "name":"Sociedad - de instituciones",
+        "title": "Sociedad de Instituciones", 
+        "colour": "#960073",
+        "value":39,
+        "porcentaje": 19,
+        "children":
+        [
+          {"name":"Defensa", "colour": "#83005D", "value":3, "title":"Defensa<br /><a href='http://www.google.com'>Ver proyectos.</a>"},
+          {"name":"Democracia", "colour": "#6D0053", "value":3, "title":"Democracia<br /><a href='http://www.google.com'>Ver proyectos.</a>"},
+          {"name":"Gobiernos Locales", "colour": "#83005D", "value":6, "title":"Gobiernos Locales<br /><a href='http://www.google.com'>Ver proyectos.</a>"},
+          {"name":"Regionalización", "colour":"#6D0053", "value":5, "title":"Regionalización<br /><a href='http://www.google.com'>Ver proyectos.</a>"},
+          {"name":"Relaciones - Internacionales", "colour": "#83005D", "value":3, "title":"Relaciones Internacionales<br /><a href='http://www.google.com'>Ver proyectos.</a>"},
+          {"name":"Sistema Judicial", "colour":"#6D0053", "value":20, "title":"Sistema Judicial<br /><a href='http://www.google.com'>Ver proyectos.</a>"}
+        ]
+      },
+      {
+        "name":"Sociedad - de Oportunidades",
+        "title":"Sociedad de Oportunidades",
+        "colour": "#f7a700",
+        "value":82,
+        "porcentaje": 40,
+        "children":
+        [
+          {"name":"Agroalimentaria", "title":"Agroalimentaria<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":12},
+          {"name":"Ciencia y Tecnología", "title":"Ciencia y Tecnología<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D38200", "value":2},
+          {"name":"Energía", "title":"Energía<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":7},
+          {"name":"Innovación y Emprendimiento", "title":"Innovación y Emprendimiento<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D38200", "value":1},
+          {"name":"Macroeconomía", "title":"Macroeconomía<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":10},
+          {"name":"Mercado de Capitales", "title":"Mercado de Capitales<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D38200", "value":7},
+          {"name":"Mercado Transparente", "title":"Mercado Transparente<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":5},
+          {"name":"Minería", "title":"Minería<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D38200", "value":3},
+          {"name":"Modernización del Estado", "title":"Modernización del Estado<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":21},
+          {"name":"Pequeña y - Mediana Empresa", "title":"Pequeña y Mediana Empresa<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D38200", "value":3},
+          {"name":"Telecomunicaciones", "title":"Telecomunicaciones<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":3},
+          {"name":"Transporte Público", "title":"Transporte Público<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D38200", "value":7},
+          {"name":"Turismo", "title":"Turismo<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#E29000", "value":1}
+        ]
+      },
+      {
+        "name":"Sociedad - de seguridades",
+        "title":"Sociedad de Seguridades",
+        "colour": "#9ecf28",
+        "value":61,
+        "porcentaje":30,
+        "children":
+          [
+            {"name":"Delincuencia", "title":"Delincuencia<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#9CBA1E", "value":12},
+            {"name":"Discapacidad", "title":"Discapacidad<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#95AA18", "value":1},
+            {"name":"Educación", "title":"Educación<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#9CBA1E", "value":10},
+            {"name":"Educación Superior", "title":"Educación Superior<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#95AA18", "value":2},
+            {"name":"Nuevos Empleos", "title":"Nuevos Empleos<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#9CBA1E", "value":10},
+            {"name":"Pensiones", "title":"Pensiones<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#95AA18", "value":3},
+            {"name":"Pobreza", "title":"Pobreza<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#9CBA1E", "value":2},
+            {"name":"Salud", "title":"Salud<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#95AA18", "value":17},
+            {"name":"Vivienda y Ciudad", "title":"Vivienda y Ciudad<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#9CBA1E", "value":4}
+          ]
+      },
+      {
+        "name":"Soc. de valores - con calidad de vida",
+        "title":"Sociedad de valores con calidad de vida",
+        "colour": "#FF0F28",
+        "value":23,
+        "porcentaje": 11,
+        "children":
+          [
+            {"name":"Cultura y Patrimonio", "title":"Cultura y Patrimonio<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#EA1130", "value":10},
+            {"name":"Deporte","title":"Deporte<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D61237", "value":2},
+            {"name":"Familia", "title":"Familia<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#EA1130", "value":1},
+            {"name":"Medio Ambiente", "title":"Medio Ambiente<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#D61237", "value":8},
+            {"name":"Tercera Edad", "title":"Tercera Edad<br /><a href='http://www.google.com'>Ver proyectos.</a>", "colour": "#EA1130", "value":1}
+          ]
+      }
+
+    ]
+  }
+]
